@@ -44,3 +44,8 @@ Here are functions to get some public status information of the contract:
 - `getCap`: Current cap of the fund held by the contract set by the owner.
 - `getDelayMinutes`: Current time limit set by the owner.
 - `getTimeout`: Last time of the request to get coins made by current sender.
+
+## See more
+
+- [Homepage for Simple Faucet dApp](https://github.com/linhntaim/ethereum-simple-faucet-home)
+- [Endpoint for Simple Faucet dApp](https://github.com/linhntaim/ethereum-simple-faucet-endpoint)
